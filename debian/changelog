@@ -1,3 +1,11 @@
+future-fstrings (1.2.0-1kern3) focal; urgency=medium
+
+  [ Athanaseus Javaas Ramaila ]
+  * Drop Python2 Support
+  * Build for focal
+
+ -- KERN packaging <packaging@kernsuite.info>  Mon, 08 Feb 2021 11:18:09 +0000
+
 future-fstrings (1.2.0-1kern2) bionic; urgency=medium
 
   [ Athanaseus Javaas Ramaila ]
