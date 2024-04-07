@@ -1,3 +1,10 @@
+future-fstrings (1.2.0-1kern4) jammy; urgency=medium
+
+  [ Athanaseus Javas Ramaila ]
+  * Build for jammy
+
+ -- KERN packaging <packaging@kernsuite.info>  Sun, 07 Apr 2024 12:23:56 +0000
+
 future-fstrings (1.2.0-1kern3) focal; urgency=medium
 
   [ Athanaseus Javaas Ramaila ]
