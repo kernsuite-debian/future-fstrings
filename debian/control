@@ -2,13 +2,13 @@ Source: future-fstrings
 Section: python
 Priority: optional
 Maintainer: KERN packaging <packaging@kernsuite.info>
-Build-Depends: debhelper (>=10),
+Build-Depends: debhelper-compat (= 13),
                dh-python,
                python3-all,
                python3-setuptools
-Standards-Version: 4.5.0
+Standards-Version: 4.6.2.0
 Homepage: https://github.com/asottile/future-fstrings
-X-Python3-Version: >= 3.6
+X-Python3-Version: >= 3.10
 
 Package: python3-future-fstrings
 Architecture: any
